@@ -1,0 +1,14 @@
+getPixel Benchmark
+__________________
+Image Dimensions (WxH):  480 * 768
+Total Pixel Count:  368640
+
+Times are given in nanoseconds
+Total Time for Test (loop evals included):  75429221
+Total Function Calls:  368640
+Total function call time (function calls only):  4.7083834E7
+Avg function call Time:  127.72307400139964
+Max function call Time:  2194973.0
+Min function call Time:  54.0
+Median function call time:  73.0
+stdDev of times: 3687.745927073769

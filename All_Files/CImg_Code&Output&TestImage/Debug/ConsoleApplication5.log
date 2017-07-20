@@ -1,0 +1,61 @@
+﻿  main.cpp
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(607): warning C4056: overflow in floating-point constant arithmetic
+  e:\codeprojects\consoleapplication5\consoleapplication5\main.cpp(30): note: see reference to function template instantiation 'void benchmark_setAllData<unsigned char>(cimg_library::CImg<unsigned char>,bool)' being compiled
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(626): warning C4056: overflow in floating-point constant arithmetic
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(307): note: see reference to function template instantiation 'void writeStatisticsToFile_2D<unsigned char>(std::vector<std::vector<__int64,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,unsigned __int64,cimg_library::CImg<unsigned char>,std::string,std::string)' being compiled
+          with
+          [
+              _Ty=__int64
+          ]
+  e:\codeprojects\consoleapplication5\consoleapplication5\main.cpp(25): note: see reference to function template instantiation 'void benchmark_getPixel<unsigned char>(cimg_library::CImg<unsigned char>,bool)' being compiled
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(138): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(182): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(188): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(189): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(190): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(212): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(662): note: see reference to function template instantiation 'void writeStatisticsToFile_1D<unsigned char>(std::vector<__int64,std::allocator<_Ty>> &,unsigned __int64,cimg_library::CImg<unsigned char>,std::string,std::string)' being compiled
+          with
+          [
+              _Ty=__int64
+          ]
+  e:\codeprojects\consoleapplication5\consoleapplication5\main.cpp(30): note: see reference to function template instantiation 'void benchmark_setAllData<unsigned char>(cimg_library::CImg<unsigned char>,bool)' being compiled
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(164): note: see reference to function template instantiation 'double stdDev<__int64>(std::vector<__int64,std::allocator<_Ty>> &,boolean)' being compiled
+          with
+          [
+              _Ty=__int64
+          ]
+  e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(307): note: see reference to function template instantiation 'void writeStatisticsToFile_2D<unsigned char>(std::vector<std::vector<__int64,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,unsigned __int64,cimg_library::CImg<unsigned char>,std::string,std::string)' being compiled
+          with
+          [
+              _Ty=__int64
+          ]
+e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(30): note: see reference to function template instantiation '_Ty std::_Accumulate<__int64*,_Ty,_Fn2>(_InIt,_InIt,_Ty,_Fn2)' being compiled
+          with
+          [
+              _Ty=int,
+              _Fn2=std::plus<void>,
+              _InIt=__int64 *
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(38): note: see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(_InIt,_InIt,_Ty,_Fn2)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,
+              _Fn2=std::plus<void>
+          ]
+  e:\codeprojects\consoleapplication5\consoleapplication5\functions.cpp(133): note: see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int>(_InIt,_InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>
+          ]
+  functions.cpp
+  Generating Code...
+  ConsoleApplication5.vcxproj -> E:\CodeProjects\ConsoleApplication5\Debug\ConsoleApplication5.exe
